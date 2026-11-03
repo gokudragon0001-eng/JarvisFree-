@@ -1,4 +1,3 @@
 <resources>
-    <string name="app_name">JARVIS Assistant</string>
-    <string name="accessibility_description">Allows JARVIS to enter dictated text into the currently focused text field. It does not send messages or click buttons.</string>
+    <string name="device_admin_description">Allows JARVIS to lock this phone when the owner speaks the screen lock command.</string>
 </resources>
