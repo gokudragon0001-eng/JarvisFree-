@@ -1,3 +1,5 @@
 <resources>
     <string name="device_admin_description">Allows JARVIS to lock this phone when the owner speaks the screen lock command.</string>
+
+    <string name="accessibility_description">JARVIS uses accessibility services to perform phone control actions when requested by the owner.</string>
 </resources>
