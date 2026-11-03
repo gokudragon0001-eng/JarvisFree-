@@ -22,7 +22,7 @@
         android:theme="@style/AppTheme" android:usesCleartextTraffic="false">
         <receiver android:name=".JarvisDeviceAdminReceiver"
             android:label="JARVIS Screen Lock"
-            android:description="Allows JARVIS to lock this phone when the owner speaks the screen lock command."
+            android:description="@string/device_admin_description"
             android:permission="android.permission.BIND_DEVICE_ADMIN"
             android:exported="true">
             <meta-data android:name="android.app.device_admin" android:resource="@xml/jarvis_device_admin" />
